@@ -9,7 +9,7 @@
 - 搜尋功能可依餐廳名稱和類型來找到合適的餐廳
 
 ## Screen shots 專案畫面
-![image](https://github.com/RileyChiu12/restaurant/public/image/screen_shot.JPG)
+![image](https://github.com/RileyChiu12/restaurant/blob/main/public/image/screen_shots.PNG)
 
 ## 安裝步驟 - Installing
 
