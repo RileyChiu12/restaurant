@@ -8,7 +8,7 @@
 - 點擊圖片可獲得地址、電話等更詳細資訊
 - 搜尋功能可依餐廳名稱和類型來找到合適的餐廳
 
-## Screen shots 專案畫面
+##  專案畫面 - Screen shots
 ![image](https://github.com/RileyChiu12/restaurant/blob/main/public/image/screen_shots.PNG)
 
 ## 安裝步驟 - Installing
