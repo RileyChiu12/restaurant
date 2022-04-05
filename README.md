@@ -25,7 +25,7 @@ npm install
 ```
 3. 執行app.js 啟動伺服器
 ```
-nodemon app.js
+npm run dev
 ```
 5.打開瀏覽器輸入 http://localhost:3000 即進入首頁
 
